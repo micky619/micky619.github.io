@@ -3,9 +3,9 @@ window.config = {
   siteName: '不愉快✱',
   navbar: [
     {
-    //  label: '首页',
-    //  link: '/'
-    //}, {
+      label: 'About',
+      link: '/'
+    }, {
       label: 'Blog',
       link: '/fuyukai_issue_blog'
     }, {
