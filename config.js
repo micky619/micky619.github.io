@@ -3,10 +3,10 @@ window.config = {
   siteName: '不愉快✱',
   navbar: [
     {
-      label: '首页',
-      link: '/'
-    }, {
-      label: '博客',
+    //  label: '首页',
+    //  link: '/'
+    //}, {
+      label: 'Blog',
       link: '/fuyukai_issue_blog'
     }, {
       label: 'react',
