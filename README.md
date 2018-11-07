@@ -19,15 +19,15 @@ this is a single page application base Github API and Github Pages to generate a
 
 # Contributing
 
- + install dependencies
+install dependencies
    ```
    npm i
    ```
- + enable webpack dev server
+enable webpack dev server
    ```
    npm run build
    ```
-  or running an static server ti preview
+or running an static server ti preview
    ```
    npm run server
    ```
